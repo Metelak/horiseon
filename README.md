@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Horiseon**
 
 ## **Challenge 1**: 
@@ -58,3 +59,8 @@ _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 _For more information, please refer to https://unlicense.org_
 
 
+=======
+# Horiseon
+Challenge 1: Edit pre-existing webpage for optimization of search engines and accessibility.
+
+>>>>>>> 9c0b91deefccc92fdb17925f83d4ae033deaef2e
